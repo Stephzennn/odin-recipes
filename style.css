@@ -1,0 +1,14 @@
+.red {
+    background-color: red;
+}
+
+.white {
+    color: white;
+    text-align: center;
+}
+
+
+
+body.Front {
+    background-color:brown;
+  }
